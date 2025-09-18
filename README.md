@@ -1,4 +1,4 @@
-# Welcome to your Lovable project
+## EcoCatch Water Solutions
 
 ## Project info
 
